@@ -1,0 +1,30 @@
+#!/bin/bash
+
+echo "🌀 You wake up inside a strange digital maze..."
+sleep 1
+
+echo "🧱 You walk forward and hit a wall. Ouch."
+sleep 1
+
+echo "🔄 You back up and take a left turn."
+sleep 1
+
+echo "👣 You hear footsteps... you run down the hallway."
+sleep 1
+
+echo "🚪 A door appears. It's locked."
+sleep 1
+
+echo "🔑 You notice a shiny key on the floor. You pick it up."
+sleep 1
+
+echo "🔓 You unlock the door and step through."
+sleep 1
+
+echo "🌪️ The hallway narrows and spins around you!"
+sleep 1
+
+echo "🦋 Suddenly, you stumble into a bright clearing filled with butterflies."
+sleep 1
+
+echo "🎉 You made it out of the maze. Nice work, adventurer."
